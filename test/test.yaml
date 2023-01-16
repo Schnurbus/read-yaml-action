@@ -1,0 +1,7 @@
+version: 1.0.0
+staging:
+  release: test-release
+  namespace: test-staging
+production:
+  release: test-release
+  namespace: test-prod
